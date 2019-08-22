@@ -34,7 +34,8 @@ message to the user's phone. The user signs in using a one-time code contained i
 # Security concerns:
 Authentication using only a phone number, while convenient, is less secure than the other available methods, because possession of a phone number can be easily transferred between users. Also, on devices with multiple user profiles, any user that can receive SMS messages can sign in to an account using the device's phone number.
 # Note:
-This example is only work on actual devices and will not work under simulator.
+1. Replace your "google-services.json" with exist "google-services.json" for build and run app.
+2. This example is only work on actual devices and will not work under simulator.
 
 
 # Output:

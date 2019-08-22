@@ -37,6 +37,8 @@ Authentication using only a phone number, while convenient, is less secure than 
 1. Replace your "google-services.json" with exist "google-services.json" for build and run app.
 2. This example is only work on actual devices and will not work under simulator.
 
+### v1.0.1
+* Phone Number Authenticate Using Firebase
 
 # Output:
 ![out_put_one](app/src/main/res/drawable/out_put_one.jpg) ![out_put_two](app/src/main/res/drawable/out_put_two.jpg)

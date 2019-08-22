@@ -12,6 +12,7 @@ message to the user's phone. The user signs in using a one-time code contained i
 
 <b>Step: 1.2</b></br>
 ![step_two](app/src/main/res/drawable/step_two.png)
+<b>Note:</b> Download this "google-services.json" in your project root directory and  replace with existing "google-services.json" for build and run app.
 
 <b>Step: 1.3:</b></br>
 ![step_three](app/src/main/res/drawable/step_three.png)
